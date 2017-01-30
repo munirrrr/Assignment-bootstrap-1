@@ -1,0 +1,12 @@
+    
+
+    #header{
+    background: url(../img/bkg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    color: #fff;
+}
